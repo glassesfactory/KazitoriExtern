@@ -1,0 +1,10 @@
+{
+  "name": "KazitoriExtern",
+  "url": "https://github.com/glassesfactory/KazitoriExtern",
+  "license": "Public",
+  "tags": ["js","extern"],
+  "description": "Unleash the full power of Kazitori.js in Haxe.",
+  "version": "0.9.9",
+  "releasenote": "yoku wakan ne",
+  "contributors": ["YamaguchiEikichi"]
+}

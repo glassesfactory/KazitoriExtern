@@ -1,0 +1,7 @@
+<project name="Kazitori.hx" url="https://github.com/glassesfactory/KazitoriExtern" license="MIT">
+    <user name="glassesfactory"/>
+    <tag v="js" />
+    <tag v="javascript" />
+    <description>Use Kazitori.js, a powerful Javascript pushState framework, with Haxe</description>
+    <version name="0.9.9">Initial release</version>
+</project>
