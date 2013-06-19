@@ -8,5 +8,5 @@ Test あとで書きますごめんなさい。
 
 ------------------------------
 
-> [Kazitori.js](https://github.com/glassesfactory/kazitori.js)
+> [Kazitori.js](https://github.com/glassesfactory/kazitori.js)  
 > [KazitoriExtern usage example.](https://gist.github.com/glassesfactory/5795083)
